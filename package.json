@@ -1,0 +1,43 @@
+{
+    "name": "ca-ria",
+    "version": "1.0.0",
+    "description": "定制话广告产品RIA基础库",
+    "main": "main.js",
+    "dependencies": {},
+    "devDependencies": {
+        "babel": "5.x"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/feibinyang/ca-ria.git"
+    },
+    "keywords": [
+        "RIA",
+        "esui",
+        "er"
+    ],
+    "author": "feibinyang",
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/feibinyang/ca-ria/issues"
+    },
+    "edp": {
+        "dependencies": {
+            "er": "~3.1.0",
+            "esui": "~3.2.0-beta",
+            "ef": "~3.1.0",
+            "er-track": "~0.9.1",
+            "echarts": "2.x",
+            "underscore": ">=1.6.0",
+            "moment": "~2.7.0",
+            "etpl": ">=3.0.0",
+            "urijs": ">=1.12.0",
+            "eoo": "0.1.x",
+            "mini-event": "~1.0.2"
+        }
+    },
+    "homepage": "https://github.com/feibinyang/ca-ria"
+}
